@@ -6,14 +6,15 @@ An overarching goal of the project is to create transparency, objectivity and st
 [Press release](https://gi.de/aktuelles/projekte/eco-digit)
 
 ## Project Partners
-[![adesso logo](profile/logos/adesso.png)](https://www.adesso.de)
-[![oeko-institut logo](profile/logos/oeko-institut.png)](https://www.oeko.de)
-[![OSBA logo](profile/logos/OSBA_Logo_RGB.jpg)](https://www.osb-alliance.de)
-[![siemens logo](profile/logos/siemens_highres.png)](https://www.siemens.com)
+[<img src="profile/logos/adesso.png" alt="adesso logo" style="height: 100px;"/>](https://www.adesso.de)
+[<img src="profile/logos/gi.png" alt="gi logo" style="height: 100px;"/>](https://www.gi.de)
+[<img src="profile/logos/oeko-institut.png" alt="oeko-institut logo" style="height: 100px;"/>](https://www.oeko.de)
+[<img src="profile/logos/OSBA_Logo_RGB.jpg" alt="OSBA logo" style="height: 100px;"/>](https://www.osb-alliance.de)
+[<img src="profile/logos/siemens_highres.png" alt="siemens logo" style="height: 100px;"/>](https://www.siemens.com)
 
 ## Contributors
-[![plusserver logo](profile/logos/plusseerver.png)](https://www.plusserver.com)
-[![Scaleuptech logo](profile/logos/Scaleuptech_highres.png)](https://www.scaleuptech.com)
+[<img src="profile/logos/plusseerver.png" alt="plusserver logo" style="height: 100px;"/>](https://www.plusserver.com)
+[<img src="profile/logos/Scaleuptech_highres.png" alt="Scaleuptech logo" style="height: 100px;"/>](https://www.scaleuptech.com)
 
 ## Funding
-[![BMWK logo](profile/logos/BMWK_Fz_2017_Office_Farbe_en.png)](https://www.bmwk.de)
+[<img src="profile/logos/BMWK_Fz_2017_Office_Farbe_en.png" alt="BMWK logo" style="height: 100px;"/>](https://www.bmwk.de)
