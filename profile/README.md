@@ -4,7 +4,7 @@ To achieve this, an assessment method is first developed to determine the main e
 An overarching goal of the project is to create transparency, objectivity and standardisation with regard to the evaluation of resource consumption when using any software solution. To this end, the test bench should be able to consider mobile apps and desktop applications as well as distributed systems and cloud- native applications in a platform-independent manner. Finally, the test bench will also be made widely available in the post-project phase. The stated aim of the project is to develop a standard for the methodology for assessing the environmental impact of digital technologies.
 
 [Press release](https://gi.de/aktuelles/projekte/eco-digit)
-[Mailing list]([https://gi.de/aktuelles/projekte/eco-digit](https://lists.gi.de/postorius/lists/eco-digit-public.lists.gi.de/))
+[Mailing list](https://lists.gi.de/postorius/lists/eco-digit-public.lists.gi.de/)
 
 ## Project Partners
 [<img src="profile/logos/adesso.png" alt="adesso logo" style="height: 100px;"/>](https://www.adesso.de)
