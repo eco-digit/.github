@@ -8,20 +8,20 @@ An overarching goal of the project is to create transparency, objectivity and st
 [Mailing list](https://lists.gi.de/postorius/lists/eco-digit-public.lists.gi.de/)
 
 ## Project Partners
-[<img src="profile/logos/adesso.png" alt="adesso logo" style="height: 100px;"/>](https://www.adesso.de)
+[<img src="logos/adesso.png" alt="adesso logo" style="height: 100px;"/>](https://www.adesso.de)
 
-[<img src="profile/logos/gi.png" alt="gi logo" style="height: 100px;"/>](https://www.gi.de)
+[<img src="logos/gi.png" alt="gi logo" style="height: 100px;"/>](https://www.gi.de)
 
-[<img src="profile/logos/oeko-institut.png" alt="oeko-institut logo" style="height: 100px;"/>](https://www.oeko.de)
+[<img src="logos/oeko-institut.png" alt="oeko-institut logo" style="height: 100px;"/>](https://www.oeko.de)
 
-[<img src="profile/logos/OSBA_Logo_RGB.jpg" alt="OSBA logo" style="height: 100px;"/>](https://www.osb-alliance.de)
+[<img src="logos/OSBA_Logo_RGB.jpg" alt="OSBA logo" style="height: 100px;"/>](https://www.osb-alliance.de)
 
-[<img src="profile/logos/siemens_highres.png" alt="siemens logo" style="height: 100px;"/>](https://www.siemens.com)
+[<img src="logos/siemens_highres.png" alt="siemens logo" style="height: 100px;"/>](https://www.siemens.com)
 
 ## Contributors
-[<img src="profile/logos/plusseerver.png" alt="plusserver logo" style="height: 100px;"/>](https://www.plusserver.com)
+[<img src="logos/plusseerver.png" alt="plusserver logo" style="height: 100px;"/>](https://www.plusserver.com)
 
-[<img src="profile/logos/Scaleuptech_highres.png" alt="Scaleuptech logo" style="height: 100px;"/>](https://www.scaleuptech.com)
+[<img src="logos/Scaleuptech_highres.png" alt="Scaleuptech logo" style="height: 100px;"/>](https://www.scaleuptech.com)
 
 ## Funding
-[<img src="profile/logos/BMWK_Fz_2017_Office_Farbe_en.png" alt="BMWK logo" style="height: 100px;"/>](https://www.bmwk.de)
+[<img src="logos/BMWK_Fz_2017_Office_Farbe_en.png" alt="BMWK logo" style="height: 100px;"/>](https://www.bmwk.de)
