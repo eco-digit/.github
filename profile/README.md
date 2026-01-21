@@ -24,4 +24,4 @@ An overarching goal of the project is to create transparency, objectivity and st
 [<img src="logos/Scaleuptech_highres.png" alt="Scaleuptech logo" style="height: 100px;"/>](https://www.scaleuptech.com)
 
 ## Funding
-[<img src="logos/BMWK_Fz_2017_Office_Farbe_en.png" alt="BMWK logo" style="height: 100px;"/>](https://www.bmwk.de)
+[<img src="logos/BMFTR_gefoedert_durch_2025.jpg" alt="BMWK logo" style="height: 100px;"/>](https://www.bmftr.bund.de/)
